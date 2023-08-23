@@ -1,0 +1,4 @@
+name: drupal-debugging-demo-app
+recipe: drupal10
+config:
+  webroot: ./web/
