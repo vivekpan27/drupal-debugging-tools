@@ -11,7 +11,7 @@ This project helps you create a Drupal site with Xdebug configured for VSCode ou
   - Save
 - Run the following commands:
   - `git clone git@github.com:vivekpan27/drupal-debugging-tools.git`
-  - `cd drupal-debugging-tools.git`
+  - `cd drupal-debugging-tools`
   - `lando start`
   - `lando drush sql:cli < drupal-debugging-demo.sql`
 
