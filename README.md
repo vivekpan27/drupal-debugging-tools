@@ -1,8 +1,8 @@
-###README
+## README
 
 This project helps you create a Drupal site with Xdebug configured for VSCode out of the box.
 
-## Steps to perform:
+### Steps to perform:
 - Install Xdebug helper chrome plugin
   - Install it Chrome Web Store
   - Pin the plugin in Chrome
@@ -15,10 +15,9 @@ This project helps you create a Drupal site with Xdebug configured for VSCode ou
   - `lando start`
   - `lando drush sql:cli < drupal-debugging-demo.sql`
 
-##For debugging:
+### For debugging:
   - Add breakpoints in code
   - Click on Xdebug Helper icon in Chrome.
   - In VSCode, click Run > Start Debuggging.
   - Reload the page
   - The debugger should stop at the breakpoints
-  -
