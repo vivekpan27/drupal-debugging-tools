@@ -1,0 +1,7 @@
+debug_demo.example:
+  path: '/debug-demo/example'
+  defaults:
+    _title: 'Example'
+    _controller: '\Drupal\debug_demo\Controller\DebugDemoController::debug'
+  requirements:
+    _permission: 'access content'

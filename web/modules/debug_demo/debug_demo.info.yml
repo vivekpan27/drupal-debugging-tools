@@ -1,0 +1,5 @@
+name: 'Debug Demo'
+type: module
+description: 'Module to help showcase debugging.'
+package: Custom
+core_version_requirement: ^10
