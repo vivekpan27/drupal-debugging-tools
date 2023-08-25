@@ -9,7 +9,8 @@ This project helps you create a Drupal site with Xdebug configured for VSCode ou
   - Right click plugin icon -> Options.
     Under IDE, select `Other` and enter `vscode` in the box.
   - Save
-- Run the following commands:
+- Install the VSCode Xdebug extension: https://marketplace.visualstudio.com/items?itemName=xdebug.php-debug
+- Run the following commands on your terminal:
   - `git clone git@github.com:vivekpan27/drupal-debugging-tools.git`
   - `cd drupal-debugging-tools`
   - `lando start`
