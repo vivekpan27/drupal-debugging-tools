@@ -5,3 +5,9 @@
  * Primary module hooks for debug_demo module.
  */
 
+/**
+ * Implements hook_page_attachments().
+ */
+function debug_demo_page_attachments(&$attachments) {
+  $attachments['#attached']['library'][] = 'debug_demo/demo';
+}

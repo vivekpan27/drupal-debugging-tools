@@ -1,0 +1,5 @@
+demo:
+  js:
+    js/demo.js: {}
+  dependencies:
+    - core/drupal
